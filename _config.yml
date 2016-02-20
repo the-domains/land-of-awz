@@ -1,0 +1,28 @@
+name: Land of Awz
+favicon: null
+layout_spectrum: 0.826378578087315
+typography_spectrum: 0.3452407431323081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6200766246765852
+  lightness: 0.6611598087474704
+  saturation: 0.33159960131160915
+  rhythmicContrast: 0.3054935596883297
+purpose: []
